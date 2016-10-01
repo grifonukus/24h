@@ -1,3 +1,5 @@
+![Fork Player](https://raw.githubusercontent.com/Elegant-Division/Fork-Player-for-Stalker-Middleware/master/img/720/icons/2010.png)
+
 # Fork Player для Stalker Middleware
 
 Добавляем **Fork Player** в **Stalker Middleware** для просмотра фильмов/сериалов/итд. на приставках:

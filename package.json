@@ -4,11 +4,11 @@
 	"version": "0.0.1",
 	"description": "Смотрите любимые видео, слушайте любимые песни, загружайте собственные ролики и делитесь ими с друзьями, близкими и целым миром.",
 	"author": {
-		"name": "Elegant Division"
+		"name": "grifonukus"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Elegant-Division/Fork-Player-for-Stalker-Middleware.git"
+		"url": "https://github.com/grifonukus/test_youtube.git"
 	},
 	"options": [],
 	"config": {

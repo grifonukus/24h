@@ -21,14 +21,12 @@
 			}
 			return result;
 		};
-
 		var getLocation = function(href) {
 			var l = document.createElement("a");
 			l.href = href;
 			return l;
 		};
-
-		var href = 'https://www.youtube.com/tv';
+		var href = 'http://www.youtube.com/tv';
 		var referrer = getLocation(document.referrer);
 		var referrer_ref = findGetParameter(referrer.search, "referrer");
 		

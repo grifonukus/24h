@@ -1,1 +1,1 @@
-#test youtube
+#24tv for mag250
